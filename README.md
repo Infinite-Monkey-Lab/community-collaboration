@@ -15,6 +15,7 @@
 ## 参与与提案
 
 - [加入组织讨论区](https://github.com/orgs/Infinite-Monkey-Lab/discussions)
+- [项目招募](https://github.com/orgs/Infinite-Monkey-Lab/discussions/categories/%E9%A1%B9%E7%9B%AE%E6%8B%9B%E5%8B%9F)
 - [提交项目收录申请或展示作品](https://github.com/orgs/Infinite-Monkey-Lab/discussions/new/choose)
 - [查看项目分类与导航讨论](https://github.com/orgs/Infinite-Monkey-Lab/discussions/7)
 
