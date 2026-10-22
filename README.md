@@ -4,7 +4,10 @@
 
 ## 项目列表
 
-- [无限猴子实验室社区启动项目](https://github.com/Infinite-Monkey-Lab/infinite-monkey-lab) — 组织介绍、参与方式与社区共建。
+- **[无限猴子实验室社区启动项目](https://github.com/Infinite-Monkey-Lab/infinite-monkey-lab)** — 组织介绍、参与方式与社区共建。
+  - 状态：筹备中（项目 README）；维护者：待确认。
+  - 许可证：仓库含 MIT LICENSE；内容授权仍以项目 README 和各文件声明为准。
+  - [快速开始](https://github.com/Infinite-Monkey-Lab/infinite-monkey-lab#如何参与) · [Issues](https://github.com/Infinite-Monkey-Lab/infinite-monkey-lab/issues) · [Discussions](https://github.com/Infinite-Monkey-Lab/infinite-monkey-lab/discussions)
 
 ## 收录字段规范
 
